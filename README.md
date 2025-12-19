@@ -1,51 +1,119 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Surafiel</h1>
-<h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
+<div align="center">
+  <img src="uploaded_image_1766150556512.png" alt="Banner" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Surafiel+Beyene;Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surafielbeyene41&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/surafiel-beyene-88375427b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://sura-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const surafiel = {
+    location: "Addis Ababa, Ethiopia 🇪🇹",
+    role: "Full Stack Developer",
+    currentFocus: "Building scalable web applications",
+    learning: ["Express.js", "Advanced React Patterns", "System Design"],
+    interests: ["Web Development", "Mobile Development", "Open Source"],
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sura4133&label=Profile%20views&color=0e75b6&style=flat" alt="sura4133" /> </p>
+### 🚀 What I Do
 
-- 🌱 I’m currently learning **Express**
-- 💬 Ask me about **Android, Express, React**
-- 📫 How to reach me **surafielb41@gmail.com**
-- 📞 Direct call **+251 941 337 762**
-- ⚡ Fun fact **I'm funny 😄**
-- 🌐 **My Portfolio:** [Visit My Portfolio](https://sura-portfolio.onrender.com)
+- 🔭 Building **full-stack web applications** with modern technologies
+- 🌱 Currently mastering **Express.js** and **Node.js** ecosystem
+- 💡 Passionate about **clean code** and **best practices**
+- � Focused on creating **meaningful user experiences**
+- 🤝 Open to **collaborate** on innovative projects
+- 📱 Experienced in **mobile development** with Flutter
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/surafiel-beyene-88375427b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surafiel-beyene" height="30" width="40" />
-  </a>
+### 📫 Get In Touch
+
+- **Email:** [surafielb41@gmail.com](mailto:surafielb41@gmail.com)
+- **Phone:** +251 941 337 762
+- **Portfolio:** [sura-portfolio.onrender.com](https://sura-portfolio.onrender.com)
+- **LinkedIn:** [Surafiel Beyene](https://linkedin.com/in/surafiel-beyene-88375427b)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
-<h3 align="left">🛠 Tech Stack</h3>
-<p align="left"> 
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surafielbeyene41&show_icons=true&locale=en&layout=compact&theme=radical" alt="sura4133" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surafielbeyene41&theme=radical" alt="sura4133" />
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-<h3 align="center">🌟 Best Viewed On <a href="https://github.com/surafielbeyene41">GitHub</a> 🌟</h3>
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surafielbeyene41&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surafielbeyene41&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surafielbeyene41&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surafielbeyene41&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surafielbeyene41&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+Coming soon! Check out my [portfolio](https://sura-portfolio.onrender.com) for my latest work.
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <h3>⭐ Show some love by starring my repositories! ⭐</h3>
+  <p>Made with ❤️ by Surafiel Beyene</p>
+</div>
