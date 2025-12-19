@@ -54,6 +54,75 @@ const surafiel = {
 
 ---
 
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="60"/>
+    </td>
+    <td>
+      <h3>Bachelor of Science in Computer Science</h3>
+      <p><strong>Woldia University</strong> | Woldia, Ethiopia</p>
+      <p>📅 Graduated: <strong>2025</strong></p>
+      <p>🎯 CGPA: <strong>3.8/4.0</strong></p>
+      <p>🏆 <strong>Medal for Academic Excellence</strong></p>
+      <p>📊 National Exit Exam: <strong>72%</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 Skills & Expertise
+
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br>
+
+![Network Security](https://img.shields.io/badge/Network_Security-Expert-red?style=flat-square&logo=security&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Advanced-orange?style=flat-square&logo=kalilinux&logoColor=white)
+![Security Architecture](https://img.shields.io/badge/Security_Architecture-Intermediate-yellow?style=flat-square&logo=shield&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-Advanced-orange?style=flat-square&logo=hackaday&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-80%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-75%25-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-80%25-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Tools</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-80%25-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-85%25-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-80%25-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-90%25-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
