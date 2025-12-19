@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Surafiel+Beyene;Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Surafiel+Beyene;Cybersecurity+Engineer;Software+Developer;Security+Specialist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ```javascript
 const surafiel = {
     location: "Addis Ababa, Ethiopia 🇪🇹",
-    role: "Full Stack Developer",
-    currentFocus: "Building scalable web applications",
-    learning: ["Express.js", "Advanced React Patterns", "System Design"],
-    interests: ["Web Development", "Mobile Development", "Open Source"],
+    role: "Cybersecurity Engineer & Software Developer",
+    currentFocus: "Building secure and resilient systems",
+    learning: ["System Design", "Network Security", "Penetration Testing", "Security Architecture"],
+    interests: ["Cybersecurity", "Threat Intelligence", "Secure Software Development", "Ethical Hacking"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
@@ -31,12 +31,12 @@ const surafiel = {
 
 ### 🚀 What I Do
 
-- 🔭 Building **full-stack web applications** with modern technologies
-- 🌱 Currently mastering **Express.js** and **Node.js** ecosystem
-- 💡 Passionate about **clean code** and **best practices**
-- � Focused on creating **meaningful user experiences**
-- 🤝 Open to **collaborate** on innovative projects
-- 📱 Experienced in **mobile development** with Flutter
+- 🔭 Designing and implementing **secure systems** and **security architectures**
+- 🌱 Currently mastering **System Design** and **Network Security**
+- 💡 Passionate about **cybersecurity best practices** and **threat mitigation**
+- 🎯 Focused on **protecting digital assets** and **securing infrastructure**
+- 🤝 Open to **collaborate** on security-focused projects
+- �️ Experienced in **vulnerability assessment** and **security hardening**
 
 ### 📫 Get In Touch
 
@@ -44,6 +44,13 @@ const surafiel = {
 - **Phone:** +251 941 337 762
 - **Portfolio:** [sura-portfolio.onrender.com](https://sura-portfolio.onrender.com)
 - **LinkedIn:** [Surafiel Beyene](https://linkedin.com/in/surafiel-beyene-88375427b)
+
+### 🏅 Awards & Achievements
+
+- 🥇 **Medal for Academic Excellence** - Woldia University (2025)
+- 🎓 **Bachelor of Science in Computer Science** 
+- 📝 **National Exit Examination**  (June 2025)
+- ⭐ Recognized for **outstanding academic dedication** and performance
 
 ---
 
