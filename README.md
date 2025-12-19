@@ -102,14 +102,6 @@ const surafiel = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surafielbeyene41&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💼 Featured Projects
 
 Coming soon! Check out my [portfolio](https://sura-portfolio.onrender.com) for my latest work.
