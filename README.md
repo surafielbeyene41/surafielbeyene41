@@ -12,6 +12,10 @@
   <a href="https://sura-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -48,8 +52,6 @@ const surafiel = {
 ### 🏅 Awards & Achievements
 
 - 🥇 **Medal for Academic Excellence** - Woldia University (2025)
-- 🎓 **Bachelor of Science in Computer Science** 
-- 📝 **National Exit Examination** - Score: **72%** (June 2025)
 - ⭐ Recognized for **outstanding academic dedication** and performance
 
 ---
@@ -91,10 +93,11 @@ const surafiel = {
 <summary><b>💻 Programming Languages</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-80%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-75%25-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </details>
 
@@ -102,11 +105,12 @@ const surafiel = {
 <summary><b>🌐 Web Development</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-80%25-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </details>
 
@@ -114,10 +118,10 @@ const surafiel = {
 <summary><b>🗄️ Database & Tools</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-80%25-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-85%25-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-80%25-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-90%25-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </details>
 
@@ -157,16 +161,36 @@ const surafiel = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surafielbeyene41&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surafielbeyene41&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surafielbeyene41&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surafielbeyene41&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surafielbeyene41&theme=radical" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surafielbeyene41&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surafielbeyene41&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surafielbeyene41&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surafielbeyene41/surafielbeyene41/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surafielbeyene41/surafielbeyene41/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surafielbeyene41/surafielbeyene41/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surafielbeyene41&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
@@ -181,7 +205,16 @@ Coming soon! Check out my [portfolio](https://sura-portfolio.onrender.com) for m
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
+
 <div align="center">
   <h3>⭐ Show some love by starring my repositories! ⭐</h3>
   <p>Made with ❤️ by Surafiel Beyene</p>
+  <p>
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon-blueviolet?style=for-the-badge" alt="Thanks"/>
+  </p>
 </div>
