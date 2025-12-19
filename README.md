@@ -49,7 +49,7 @@ const surafiel = {
 
 - 🥇 **Medal for Academic Excellence** - Woldia University (2025)
 - 🎓 **Bachelor of Science in Computer Science** 
-- 📝 **National Exit Examination**  (June 2025)
+- 📝 **National Exit Examination** - Score: **72%** (June 2025)
 - ⭐ Recognized for **outstanding academic dedication** and performance
 
 ---
